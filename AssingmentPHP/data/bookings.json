@@ -1,0 +1,42 @@
+{
+    "3": {
+        "id": 4,
+        "user_id": 3,
+        "car_id": "9",
+        "start_date": "2025-01-08",
+        "end_date": "2025-01-30",
+        "total_price": 880000
+    },
+    "8": {
+        "id": 7,
+        "user_id": 2,
+        "car_id": "10",
+        "start_date": "2025-01-15",
+        "end_date": "2025-01-30",
+        "total_price": 720000
+    },
+    "13": {
+        "id": "6785e8e20e482",
+        "user_id": 4,
+        "car_id": "2",
+        "start_date": "2025-01-23",
+        "end_date": "2025-01-31",
+        "total_price": 115200
+    },
+    "17": {
+        "id": "6785ec527979b",
+        "user_id": 2,
+        "car_id": "2",
+        "start_date": "2025-01-18",
+        "end_date": "2025-01-22",
+        "total_price": 57600
+    },
+    "18": {
+        "id": "6785ec978160f",
+        "user_id": 2,
+        "car_id": "9",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-28",
+        "total_price": 480000
+    }
+}

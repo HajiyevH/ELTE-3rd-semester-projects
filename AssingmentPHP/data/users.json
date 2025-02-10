@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "full_name": "Hajiyev Hajiaga",
+        "email": "haciaga0@gmail.com",
+        "password": "$2y$10$YskPPOPaz1ZnOQ4aW7PN5e57qO1Xf37EWQYWU\/z0mxPbSvR6WtL4m"
+    },
+    {
+        "id": 2,
+        "full_name": "yas",
+        "email": "salam@gmail.com",
+        "password": "$2y$10$6FoXvpXsl6izHwjuQoNHieyt5hHHJVqmWFSwpX6ny10ky2.e63ZOm"
+    },
+    {
+        "id": 3,
+        "full_name": "adssadad",
+        "email": "a@a.a",
+        "password": "$2y$10$gNlsRGDR7hTVN8MjsY2DR.FWLKAlgbDYo0oHVoEzYlPaxNzqkfTEC"
+    },
+    {
+        "id": 4,
+        "full_name": "halam",
+        "email": "halam@a.a",
+        "password": "$2y$10$3E6FPzk2HqHSw5ogfCIhc.7GxWupoU9WUai82xtRgUoyiHZznCPAm"
+    }
+]
